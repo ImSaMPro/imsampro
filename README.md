@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/imsampro" target="blank"><img src="https://img.shields.io/twitter/follow/imsampro?logo=twitter&style=for-the-badge" alt="imsampro" /></a> </p>
 
-- 💬 Ask me about **AOSP, UI/UX, Web developement, Cloud Computing**
+- 💬 Ask me about **AOSP, UI/UX, Web developement & Cloud Computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
