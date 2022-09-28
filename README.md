@@ -7,6 +7,16 @@
 
 - 💬 Ask me about **AOSP, UI/UX, Web developement & Cloud Computing**
 
+## Tech preferences
+
+| |                       |                                                           |
+|-|-----------------------|-----------------------------------------------------------|
+|🖥| **Operating System** | Windows 11                                                |
+|📺| **Terminal**         | [Windows Terminal](https://github.com/microsoft/terminal) |
+|🐚| **Shell**            | [PowerShell](https://github.com/PowerShell/PowerShell)    |
+|📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imsampro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imsampro" height="30" width="40" /></a>
