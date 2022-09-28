@@ -24,3 +24,4 @@
 ## GitHub Streaks 🔥
 <p align="center"> <img src=http://github-readme-streak-stats.herokuapp.com?user=imsampro&date_format=j%20M%5B%20Y%5D alt=imsampro /> </p>
 
+<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=imsampro&margin-w=15&margin-h=15 alt=imsampro /> </p>
