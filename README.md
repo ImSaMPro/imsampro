@@ -11,13 +11,13 @@
 
 | |                       |                                                           |
 |-|-----------------------|-----------------------------------------------------------|
-|🖥| **Operating System** | Windows 11                                                |
+|🖥| **Operating System** | Windows                                                   |
 |📺| **Terminal**         | [Windows Terminal](https://github.com/microsoft/terminal) |
 |🐚| **Shell**            | [PowerShell](https://github.com/PowerShell/PowerShell)    |
 |📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
 
 
-## Connect with me:
+## Connect with me 🤝
 <p align="left">
 <a href="https://twitter.com/imsampro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imsampro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imsampro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imsampro" height="30" width="40" /></a>
@@ -38,4 +38,10 @@
 
 ## Random quotes
 <p align="center"> <img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"> </p>
+
+## Sponsors
+- [**List of The Sponsors**](https://github.com/ImSaMPro/imsampro/blob/Sponsor/Sponsors.md)
+
+## OneTime Sponsors
+- [**List of The OneTime Sponsors**](https://github.com/ImSaMPro/imsampro/blob/OneTime-Sponsor/OneTime-Sponsors.md)
 
