@@ -30,6 +30,9 @@
 ## Current GitHub Stats 📊
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=imsampro&show_icons=true alt=imsampro /> </p>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=imsampro&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&layout=compact  alt=imsampro /> </p>
+<p align="center">
+<img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsampro&theme=github" alt="imsampro">
+</p>
 
 ## GitHub Streaks 🔥
 <p align="center"> <img src=http://github-readme-streak-stats.herokuapp.com?user=imsampro&date_format=j%20M%5B%20Y%5D alt=imsampro /> </p>
