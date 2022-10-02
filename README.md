@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep Mandal (SaM)</h1>
+<h3 align="center">A Front-End developer from Kolkata, India 🇮🇳</h3>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<h3 align="center">A Front-End developer from Kolkata, India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=imsampro alt=imsampro/> </p>
 
 <p align="left"> <a href="https://twitter.com/imsampro" target="blank"><img src="https://img.shields.io/twitter/follow/imsampro?logo=twitter&style=for-the-badge" alt="imsampro" /></a> </p>
