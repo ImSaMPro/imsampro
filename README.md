@@ -32,7 +32,7 @@
 <a href="https://codepen.io/imsampro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="imsampro" height="30" width="40" /></a>
 </p>
 
-## Current GitHub Stats & Streaks 📊 🔥
+## GitHub Stats & Streaks 📊 🔥
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=imsampro&show_icons=true alt=imsampro /> </p>
