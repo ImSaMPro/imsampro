@@ -43,6 +43,8 @@
 
 <p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=imsampro&margin-w=15&margin-h=15 alt=imsampro /> </p>
 
+## Holopin Badges 📛
+[![@imsampro's Holopin board](https://holopin.io/api/user/board?user=imsampro)](https://holopin.io/@imsampro)
 
 ## Random quotes 📄
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
