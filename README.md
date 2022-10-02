@@ -54,12 +54,12 @@
 
 <p align="center"> <img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"> </p>
 
-## Sponsors
+## Sponsors 💳
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 - [**List of The Sponsors**](https://github.com/ImSaMPro/imsampro/blob/Sponsor/Sponsors.md)
 
-## OneTime Sponsors
+## OneTime Sponsors 💰
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 - [**List of The OneTime Sponsors**](https://github.com/ImSaMPro/imsampro/blob/OneTime-Sponsor/OneTime-Sponsors.md)
