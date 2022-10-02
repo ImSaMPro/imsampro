@@ -16,7 +16,6 @@
 |-|-----------------------|-----------------------------------------------------------|
 |🖥| **Operating System** | Windows                                                   |
 |📺| **Terminal**         | [Windows Terminal](https://github.com/microsoft/terminal) |
-|🐚| **Shell**            | [PowerShell](https://github.com/PowerShell/PowerShell)    |
 |📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
 
 
