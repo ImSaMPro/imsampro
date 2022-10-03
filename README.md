@@ -5,9 +5,12 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=imsampro alt=imsampro/> </p>
 
-<p align="left"> <a href="https://twitter.com/imsampro" target="blank"><img src="https://img.shields.io/twitter/follow/imsampro?logo=twitter&style=for-the-badge" alt="imsampro" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imsampro" target="blank"><img src="https://img.shields.io/twitter/follow/imsampro?logo=twitter&style=for-the-badge" alt="imsampro" /></a> 
+<a href="https://linkedin.com/IN/imsampro" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="imsampro" /> </a> </p>
 
+- 🔭 I’m currently working on **AOSP**
 - 💬 Ask me about **AOSP, UI/UX, Web developement & Cloud Computing**
+- 😄 Pronouns: He/Him/His
 
 ## Tech preferences 🧑‍💻
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
@@ -65,3 +68,18 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 - [**List of The OneTime Sponsors**](https://github.com/ImSaMPro/imsampro/blob/OneTime-Sponsor/OneTime-Sponsors.md)
+
+<!--
+**ImSaMPro/imsampro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
