@@ -32,6 +32,7 @@
 <a href="https://facebook.com/imsampro" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="imsampro" /></a>
 <a href="https://instagram.com/imsampro" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="imsampro" /></a>
 <a href="https://codepen.io/imsampro" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="imsampro" /></a>
+<a href="https://medium.com/@imsampro" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="imsampro" /></a>
 </p>
 
 ## GitHub Stats & Streaks 📊 🔥
