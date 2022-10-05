@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep Mandal (SaM)</h1>
-<h3 align="center">A Front-End developer from Kolkata, India 🇮🇳</h3>
+<h3 align="center">Tech Enthusiast | Front-end Developer | Open-Source Contributor</h3>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
