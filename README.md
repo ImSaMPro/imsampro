@@ -3,9 +3,9 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=imsampro alt=imsampro/> </p>
+<p> <img src=https://komarev.com/ghpvc/?username=imsampro alt=imsampro/> </p>
 
-<p align="left"> <a href="https://twitter.com/imsampro" target="blank"><img src="https://img.shields.io/twitter/follow/imsampro?logo=twitter&style=for-the-badge" alt="imsampro" /></a> 
+<p> <a href="https://twitter.com/imsampro" target="blank"><img src="https://img.shields.io/twitter/follow/imsampro?logo=twitter&style=for-the-badge" alt="imsampro" /></a> 
 <a href="https://linkedin.com/IN/imsampro" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="imsampro" /> </a> </p>
 
 - 🔭 I’m currently working on **AOSP**
@@ -25,7 +25,7 @@
 ## Connect with me 🤝
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<p align="left">
+<p>
 <a href="https://twitter.com/imsampro" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="imsampro" /></a>
 <a href="https://linkedin.com/in/imsampro" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="imsampro" /></a>
 <a href="https://dev.to/imsampro" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="imsampro" /></a>
@@ -35,7 +35,7 @@
 <a href="https://medium.com/@imsampro" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="imsampro" /></a>
 </p>
 
-## GitHub Stats & Streaks 📊 🔥
+## GitHub Analytics, Stats & Streaks 📊 🔥
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=imsampro&show_icons=true alt=imsampro /> </p>
@@ -50,6 +50,7 @@
 <p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=imsampro&margin-w=15&margin-h=15 alt=imsampro /> </p>
 
 <a href="http://www.github.com/imsampro"><img src="https://activity-graph.herokuapp.com/graph?username=imsampro&theme=minimal" alt="GitHub Commits Graph" /></a>
+
 
 ## Holopin Badge Board 📛
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
