@@ -18,11 +18,21 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 | |                       |                                                           |
-|-|-----------------------|-----------------------------------------------------------|
-|🖥| **Operating System** | Windows                                                   |
-|📺| **Terminal**         | [Windows Terminal](https://github.com/microsoft/terminal) |
-|📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
+|-|------------------------|-----------------------------------------------------------|
+|🖥| **Operating System**  | Windows / Linux / Android                                 |
+|📺| **Shell**            | [Windows Terminal](https://github.com/microsoft/terminal) |
+|📝| **External Editor**  | [Visual Studio Code](https://github.com/Microsoft/vscode) |
 
+
+## Languages
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<p>
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/>
+  </a>
+</p>
 
 ## Connect with me 🤝
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
