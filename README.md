@@ -6,9 +6,11 @@
 <p> <img src=https://komarev.com/ghpvc/?username=imsampro alt=imsampro/> </p>
 
 <p> <a href="https://twitter.com/imsampro" target="blank"><img src="https://img.shields.io/twitter/follow/imsampro?logo=twitter&style=for-the-badge" alt="imsampro" /></a> 
-<a href="https://linkedin.com/IN/imsampro" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="imsampro" /> </a> </p>
+<a href="https://www.github.com/imsampro" target="_blank"><img
+src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-badge" alt="imsampro" /></a> </p>
 
 - 🔭 I’m currently working on **AOSP**
+- 👯 I’m looking to collaborate on **Open-Source Projects**
 - 💬 Ask me about **AOSP, UI/UX, Web developement & Cloud Computing**
 - 😄 Pronouns: **He/Him/His**
 
