@@ -17,12 +17,27 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 ## Tech preferences 🧑‍💻
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-| |                       |                                                           |
-|-|------------------------|-----------------------------------------------------------|
-|🖥| **Operating System**  | Windows / Linux / Android                                 |
-|📺| **Shell**            | [Windows Terminal](https://github.com/microsoft/terminal) |
-|📝| **External Editor**  | [Visual Studio Code](https://github.com/Microsoft/vscode) |
-
+<table border="1">
+  <tr>
+    <td>🖥</td>
+    <td><b>Operating System</b></td>
+    <td>Windows | Linux | Android</td>
+  </tr>
+  <tr>
+    <td>📺</td>
+    <td><b>Shell</b></td>
+    <td>
+      <a href="https://github.com/microsoft/terminal">Windows Terminal</a>
+    </td>
+  </tr>
+  <tr>
+    <td>📝</td>
+    <td><b>External Editor</b></td>
+    <td>
+      <a href=https://github.com/Microsoft/vscode">Visual Studio Code</a>
+    </td>
+  </tr>
+</table>
 
 ## Languages
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
