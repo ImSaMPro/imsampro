@@ -1,4 +1,4 @@
-<div>
+<div style="font-family:Poppins">
 <h1 align="center">Hi 👋, I'm Soumyadeep Mandal (SaM)</h1>
 <h3 align="center">Tech Enthusiast | Front-end Developer | Open-Source Contributor</h3>
 
