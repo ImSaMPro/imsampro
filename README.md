@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">Hi 👋, I'm Soumyadeep Mandal (SaM)</h1>
 <h3 align="center">Tech Enthusiast | Front-end Developer | Open-Source Contributor</h3>
 
@@ -114,6 +115,7 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 - [**List of The OneTime Sponsors**](https://github.com/ImSaMPro/imsampro/blob/OneTime-Sponsor/OneTime-Sponsors.md)
+</div>
 
 <!--
 **ImSaMPro/imsampro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
