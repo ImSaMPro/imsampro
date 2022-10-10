@@ -95,6 +95,10 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 
 <a href="http://www.github.com/imsampro"><img src="https://activity-graph.herokuapp.com/graph?username=imsampro&theme=minimal" alt="GitHub Commits Graph" /></a>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsampro" alt="imsampro" />
+</p>
+
 
 ## Holopin Badge Board 📛
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
@@ -116,6 +120,7 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 
 - [**List of The OneTime Sponsors**](https://github.com/ImSaMPro/imsampro/blob/OneTime-Sponsor/OneTime-Sponsors.md)
 </div>
+
 
 <!--
 **ImSaMPro/imsampro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
