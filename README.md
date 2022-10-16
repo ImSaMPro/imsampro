@@ -97,6 +97,7 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 
 <p align="center">
 <img src= "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsampro&theme=github" alt="imsampro">
+ <img src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imsampro&theme=github" alt="imsampro">
 </p>
 
 <p align="center"> <img src=http://github-readme-streak-stats.herokuapp.com?user=imsampro&date_format=j%20M%5B%20Y%5D alt=imsampro /> </p>
