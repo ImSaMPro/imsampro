@@ -16,6 +16,7 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 - 😄 Pronouns: **He/Him/His**
 
 ## Tech preferences 🧑‍💻
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <table border="1">
@@ -41,6 +42,7 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 </table>
 
 ## Languages
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p>
@@ -67,6 +69,7 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 </p>
 
 ## Connect with me 🤝
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p>
@@ -80,15 +83,22 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 </p>
 
 ## GitHub Analytics, Stats & Streaks 📊 🔥
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=imsampro&show_icons=true alt=imsampro /> </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=imsampro&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&layout=compact  alt=imsampro /> </p>
+
 <p align="center">
 <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsampro&theme=github" alt="imsampro">
  <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imsampro&theme=github" alt="imsampro">
 </p>
+
+<p align="center">
+<img src= "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsampro&theme=github" alt="imsampro">
+</p>
+
 <p align="center"> <img src=http://github-readme-streak-stats.herokuapp.com?user=imsampro&date_format=j%20M%5B%20Y%5D alt=imsampro /> </p>
 
 <p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=imsampro&margin-w=15&margin-h=15 alt=imsampro /> </p>
@@ -99,28 +109,30 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsampro" alt="imsampro" />
 </p>
 
-
 ## Holopin Badge Board 📛
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 [![@imsampro's Holopin board](https://holopin.io/api/user/board?user=imsampro)](https://holopin.io/@imsampro)
 
 ## Random quotes 📄
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center"> <img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"> </p>
 
 ## Sponsors 💳
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 - [**List of The Sponsors**](https://github.com/ImSaMPro/imsampro/blob/Sponsor/Sponsors.md)
 
 ## OneTime Sponsors 💰
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 - [**List of The OneTime Sponsors**](https://github.com/ImSaMPro/imsampro/blob/OneTime-Sponsor/OneTime-Sponsors.md)
 </div>
-
 
 <!--
 **ImSaMPro/imsampro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
