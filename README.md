@@ -15,6 +15,7 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 - 💬 Ask me about **AOSP, UI/UX, Web developement & Cloud Computing**
 - 😄 Pronouns: **He/Him/His**
 
+
 ## Tech preferences 🧑‍💻
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
@@ -140,7 +141,7 @@ src="https://img.shields.io/github/followers/imsampro?logo=github&style=for-the-
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ASOP
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
