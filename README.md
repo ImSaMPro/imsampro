@@ -10,20 +10,15 @@
 
 </div>
 
-```
-Hi, My name is Soumyadeep Mandal (SaM). I'm a full-stack developer who is passionate about building community, creating technology that elevates people, and spreading access to open source. I particularly liked working with the technologies Html/CSS, VueJs, NextJs and NodeJs.
-
-```
+_Hi, My name is Soumyadeep Mandal (SaM). I'm a full-stack developer who is passionate about building community, creating technology that elevates people, and spreading access to open source. I particularly liked working with the technologies Html/CSS, VueJs, NextJs and NodeJs._
 
 <details>
 <summary style="font-size:1em; font-weight:bold; color:#0088FF">
     Read More
 </summary>
 
-```
-I love to contribute to Open Source projects as it motivates me to pay a lot more attention to software design, testing, and documentation. I like to explore new technologies and love to work with them.
+_I love to contribute to Open Source projects as it motivates me to pay a lot more attention to software design, testing, and documentation. I like to explore new technologies and love to work with them._
 
-I think that every technology has its own strengths and can be used in unique ways, so I like to combine all of my knowledge and abilities to create something new and innovative.
-```
+_I think that every technology has its own strengths and can be used in unique ways, so I like to combine all of my knowledge and abilities to create something new and innovative._
 
 </details>
