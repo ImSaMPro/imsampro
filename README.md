@@ -135,3 +135,25 @@ I think that every technology has its own strengths and can be used in unique wa
 </details>
 
 ![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+## **PERSONAL DEVICE** 💻
+
+<br />
+
+<details>
+<summary>
+    <b>Lenovo Ideapad 320 <i>(Since 2016)</i></b>
+</summary>
+
+<br />
+
+- Intel Core i5-7200U
+- NVIDIA GeForce GTX920M
+- Crucial 20GB DDR4 2666Mhz RAM
+- Crucial 2TB SSD
+- Samsung 2TB HHD
+- Dell Keyboard & Mouse Combo
+
+</details>
+
+![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
