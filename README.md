@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Soumyadeep Mandal (SaM)</h1>
-<h3>Full-Stack Developer | UI/UX Developer | Open-Source Contributor</h3>
+<h3>Full-Stack Developer | UI/UX Developer | Open-Source Contributor | Community Leader</h3>
 
 ![Profile View](https://komarev.com/ghpvc/?username=imsampro&style=for-the-badge)
 [![GitHub Follower](https://img.shields.io/github/followers/imsampro?logo=github&label=follow%20%40imsampro&style=for-the-badge)](https://github.com/imsampro)
