@@ -178,7 +178,7 @@ I think that every technology has its own strengths and can be used in unique wa
 - RAM: 64GB
 - Storage: 512GB
 
-> **Other Configuration**
+> **Other Configurations**
 
 - Processor: 2vCPU/4vCPU/8vCPU/16vCPU
 - RAM: 32GB/64GB
