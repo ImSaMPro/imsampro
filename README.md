@@ -170,6 +170,8 @@ I think that every technology has its own strengths and can be used in unique wa
     <b>Cloud PC <i>(Since 2022)</i></b>
 </summary>
 
+<br />
+
 ***Note**: Configuration Varies on type of task.*
 
 > **Default Configuration**
