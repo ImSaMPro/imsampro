@@ -142,10 +142,12 @@ I think that every technology has its own strengths and can be used in unique wa
 
 <details>
 <summary>
-    <b>Lenovo Ideapad 320 <i>(Since 2016)</i></b>
+    <b>Laptop <i>(Since 2016)</i></b>
 </summary>
 
 <br />
+
+> **Lenovo Ideapad 320**
 
 - Intel Core i5-7200U
 - NVIDIA GeForce GTX920M
@@ -153,6 +155,34 @@ I think that every technology has its own strengths and can be used in unique wa
 - Crucial 2TB SSD
 - Samsung 2TB HHD
 - Dell Keyboard & Mouse Combo
+
+</details>
+
+![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+## **WORK DEVICE** 🖥️
+
+<br />
+
+<details>
+
+<summary>
+    <b>Cloud PC <i>(Since 2022)</i></b>
+</summary>
+
+***Note**: Configuration Varies on type of task.*
+
+> **Default Configuration**
+
+- Processor: 8vCPU
+- RAM: 64GB
+- Storage: 512GB
+
+> **Other Configuration**
+
+- Processor: 2vCPU/4vCPU/8vCPU/16vCPU
+- RAM: 32GB/64GB
+- Storage: 512GB/1000GB
 
 </details>
 
