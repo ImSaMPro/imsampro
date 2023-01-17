@@ -189,3 +189,24 @@ I think that every technology has its own strengths and can be used in unique wa
 </details>
 
 ![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+## **LOOK | FIND | CONNECT WITH ME** 🤝
+
+<br />
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/imsampro)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imsampro)
+
+<details>
+<summary>
+    More Choices 
+</summary>
+
+<br />
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/imsampro)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imsampro)
+
+</details>
+
+![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
