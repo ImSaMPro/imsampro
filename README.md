@@ -136,30 +136,6 @@ I think that every technology has its own strengths and can be used in unique wa
 
 ![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## **PERSONAL DEVICE** 💻
-
-<br />
-
-<details>
-<summary>
-    <b>Laptop <i>(Since 2016)</i></b>
-</summary>
-
-<br />
-
-> **Lenovo Ideapad 320**
-
-- Intel Core i5-7200U
-- NVIDIA GeForce GTX920M
-- Crucial 20GB DDR4 2666Mhz RAM
-- Crucial 2TB SSD
-- Samsung 2TB HHD
-- Dell Keyboard & Mouse Combo
-
-</details>
-
-![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
 ## **WORK DEVICE** 🖥️
 
 <br />
@@ -210,3 +186,19 @@ I think that every technology has its own strengths and can be used in unique wa
 </details>
 
 ![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+## **GITHUB ANALYTICS | GRAPHS | STATS & STREAKS** 📊 🔥
+
+<br />
+
+<table border style="width:100%">
+<tr>
+<td style="align:center">
+<div style="text-align:center">
+<img src=http://github-readme-streak-stats.herokuapp.com?user=imsampro&date_format=j%20M%5B%20Y%5D alt=imsampro />
+</div>
+</td>
+</tr>
+</table>
+
+<br />
