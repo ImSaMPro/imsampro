@@ -12,7 +12,7 @@
     <b>Read More</b>
 </summary>
 
-<br />
+<br>
 
 <i>I love to contribute to Open Source projects as it motivates me to pay a lot more attention to software design, testing, and documentation. I like to explore new technologies and love to work with them.
 
@@ -41,7 +41,7 @@ I think that every technology has its own strengths and can be used in unique wa
     <b>Expand To See Details</b> 
 </summary>
 
-<br />
+<br>
 
 ### 🎛️ **OPERATING SYSTEM**
 
@@ -138,7 +138,7 @@ I think that every technology has its own strengths and can be used in unique wa
 
 ## **WORK DEVICE** 🖥️
 
-<br />
+<br>
 
 <details>
 
@@ -146,7 +146,7 @@ I think that every technology has its own strengths and can be used in unique wa
     <b>Cloud PC <i>(Since 2022)</i></b>
 </summary>
 
-<br />
+<br>
 
 ***Note**: Configuration Varies on type of task.*
 
@@ -168,7 +168,7 @@ I think that every technology has its own strengths and can be used in unique wa
 
 ## **LOOK | FIND | CONNECT WITH ME** 🤝
 
-<br />
+<br>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/imsampro)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imsampro)
@@ -178,7 +178,7 @@ I think that every technology has its own strengths and can be used in unique wa
     More Choices 
 </summary>
 
-<br />
+<br>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/imsampro)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imsampro)
@@ -191,16 +191,36 @@ I think that every technology has its own strengths and can be used in unique wa
 
 ## **GITHUB ANALYTICS | GRAPHS | STATS & STREAKS** 📊 🔥
 
-<br />
+<br>
 
-<table border style="width:100%">
-<tr>
-<td style="align:center">
-<div style="text-align:center">
-<img src=http://github-readme-streak-stats.herokuapp.com?user=imsampro&date_format=j%20M%5B%20Y%5D alt=imsampro />
+<img src="https://github-readme-stats.vercel.app/api?username=imsampro&show_icons=true" alt=imsampro />
+
+<br>
+
+<details>
+<summary>
+    Know More
+</summary>
+
+<br>
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=imsampro&date_format=j%20M%5B%20Y%5D" alt=imsampro />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsampro&show_icons=true&hide_border=false&count_private=true&include_all_commits=true"  alt=imsampro />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsampro&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&layout=compact"  alt=imsampro />
+
+<br>
+
+<div>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsampro&theme=github" alt="imsampro">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imsampro&theme=github" alt="imsampro">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsampro&theme=github" alt="imsampro">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imsampro&theme=github" alt="imsampro">
 </div>
-</td>
-</tr>
-</table>
 
-<br />
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsampro" alt="imsampro" />
+    <img src="https://github-profile-trophy.vercel.app/?username=imsampro&margin-w=15&margin-h=15" alt=imsampro />
+</div>
