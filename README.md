@@ -224,3 +224,15 @@ I think that every technology has its own strengths and can be used in unique wa
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsampro" alt="imsampro" />
     <img src="https://github-profile-trophy.vercel.app/?username=imsampro&margin-w=15&margin-h=15" alt=imsampro />
 </div>
+
+</details>
+
+![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+## **HOLOPIN BADGE BOARD** 📛
+
+<br>
+
+[![@imsampro's Holopin board](https://holopin.io/api/user/board?user=imsampro)](https://holopin.io/@imsampro)
+
+![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
