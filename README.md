@@ -236,3 +236,23 @@ I think that every technology has its own strengths and can be used in unique wa
 [![@imsampro's Holopin board](https://holopin.io/api/user/board?user=imsampro)](https://holopin.io/@imsampro)
 
 ![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+## **RANDOM QUOTES & JOKES** 📄
+
+<br />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="imsampro" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default" alt="imsampro" />
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2300aaff&qColor=%23fff&aColor=%23fff)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23aa00ff&qColor=%23fff&aColor=%23fff)
+
+![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=00AAFF&center=true&vCenter=true&multiline=true&width=500&lines=Thanks+For+Visiting+My+Profile!)
+
+</div>
