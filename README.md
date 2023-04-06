@@ -136,7 +136,7 @@ I think that every technology has its own strengths and can be used in unique wa
 
 ![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## **WORK DEVICE** 🖥️
+<!-- ## **WORK DEVICE** 🖥️
 
 <br>
 
@@ -164,7 +164,7 @@ I think that every technology has its own strengths and can be used in unique wa
 
 </details>
 
-![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) -->
 
 ## **LOOK | FIND | CONNECT WITH ME** 🤝
 
