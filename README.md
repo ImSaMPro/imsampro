@@ -136,36 +136,6 @@ I think that every technology has its own strengths and can be used in unique wa
 
 ![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<!-- ## **WORK DEVICE** 🖥️
-
-<br>
-
-<details>
-
-<summary>
-    <b>Cloud PC <i>(Since 2022)</i></b>
-</summary>
-
-<br>
-
-***Note**: Configuration Varies on type of task.*
-
-> **Default Configuration**
-
-- Processor: 8vCPU
-- RAM: 64GB
-- Storage: 512GB
-
-> **Other Configurations**
-
-- Processor: 2vCPU/4vCPU/8vCPU/16vCPU
-- RAM: 32GB/64GB
-- Storage: 512GB/1000GB
-
-</details>
-
-![Line](./assets/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) -->
-
 ## **LOOK | FIND | CONNECT WITH ME** 🤝
 
 <br>
