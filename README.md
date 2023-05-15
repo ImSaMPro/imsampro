@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Soumyadeep Mandal (SaM)</h1>
-<h3>Full-Stack Developer | UI/UX Developer | Open-Source Contributor | Community Leader</h3>
+<h3>Full-Stack SDE | Designer & Developer | Community Leader | Content Creator & Writer | Freelancer | Public Speaker | Open-Source</h3>
 
 ![Profile View](https://komarev.com/ghpvc/?username=imsampro&style=for-the-badge)
 [![GitHub Follower](https://img.shields.io/github/followers/imsampro?logo=github&label=follow%20%40imsampro&style=for-the-badge)](https://github.com/imsampro)
 [![Twitter Follower](https://img.shields.io/twitter/follow/imsampro?logo=twitter&style=for-the-badge)](https://twitter.com/imsampro)
 
-Hi, My name is Soumyadeep Mandal (SaM). I'm a full-stack developer who is passionate about building community, creating technology that elevates people, and spreading access to open source. I particularly liked working with the technologies Html/CSS, VueJs, NextJs and NodeJs.
+👋 Hi, I'm Soumyadeep. I'm a Full-Stack SDE and a tech enthusiast who loves to create awesome things with code & design. 💻
 
 <details>
 <summary>
@@ -14,9 +14,15 @@ Hi, My name is Soumyadeep Mandal (SaM). I'm a full-stack developer who is passio
 
 <br>
 
-I love to contribute to Open Source projects as it motivates me to pay a lot more attention to software design, testing, and documentation. I like to explore new technologies and love to work with them.
+I have over 4+ years of experience in building web applications using various technologies such as React, Node.js, MongoDB, Firebase, and GraphQL. I also have a keen interest in data science and machine learning, and I enjoy exploring new tools and frameworks to enhance my skills and create innovative solutions. In addition to my technical skills, I have strong communication, collaboration, and problem-solving skills. I have worked in agile teams and used tools such as Git, Jira, and Slack to manage projects and coordinate with other developers. I am always eager to learn new things and share my knowledge with others. 🚀
 
-I think that every technology has its own strengths and can be used in unique ways, so I like to combine all of my knowledge and abilities to create something new and innovative.
+I'm currently working as a Full-Stack SDE, where I lead a small team of developers and collaborate with clients to deliver high-quality products that meet their needs and expectations. I enjoy working with various technologies and frameworks, such as React, Node.js, MongoDB, and AWS. I'm always eager to learn new skills and explore new challenges in the field of web development. I have a passion for creating user-friendly and responsive web applications that solve real-world problems and provide value to users.
+
+🤖 Besides developing web applications, I also participate in the Android Open Source Program (AOSP), where I collaborate with other developers to create and improve custom ROMs for various devices. I love crafting elegant and intuitive user interfaces, and I use tools like Adobe XD, Figma, and Sketch to design and prototype my ideas. I also follow the latest trends and best practices in UI/UX design to ensure that my applications meet the expectations and needs of the users. 🎨
+
+🙌 I'm always open to new opportunities and challenges that can help me grow as a professional and as a person. I'm also eager to connect with other developers and share my knowledge and experience. Feel free to reach out to me if you want to chat about web development, data science, or anything else. 😊
+
+🔗 You can also check out my portfolio, blog, GitHub, Twitter, Medium, Dev.to, Mastodon, and LinkedIn to see some of my work and learn more about me. 🙏
 
 </details>
 
