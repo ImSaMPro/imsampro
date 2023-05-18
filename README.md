@@ -4,6 +4,8 @@
 ![Profile View](https://komarev.com/ghpvc/?username=imsampro&style=for-the-badge)
 [![GitHub Follower](https://img.shields.io/github/followers/imsampro?logo=github&label=follow%20%40imsampro&style=for-the-badge)](https://github.com/imsampro)
 [![Twitter Follower](https://img.shields.io/twitter/follow/imsampro?logo=twitter&style=for-the-badge)](https://twitter.com/imsampro)
+[![LinkedIn Follower](https://img.shields.io/twitter/follow/imsampro?logo=linkedin&style=for-the-badge)](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imsampro)
+
 
 👋 Hi, I'm Soumyadeep. I'm a Full-Stack SDE and a tech enthusiast who loves to create awesome things with code & design. 💻
 
@@ -147,7 +149,7 @@ I'm currently working as a Full-Stack SDE, where I lead a small team of develope
 <br>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/imsampro)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imsampro)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imsampro)
 
 <details>
 <summary>
