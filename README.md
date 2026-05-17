@@ -16,15 +16,45 @@
 
 <br>
 
-I have over 4+ years of experience in building web applications using various technologies such as React, Node.js, MongoDB, Firebase, and GraphQL. I also have a keen interest in data science and machine learning, and I enjoy exploring new tools and frameworks to enhance my skills and create innovative solutions. In addition to my technical skills, I have strong communication, collaboration, and problem-solving skills. I have worked in agile teams and used tools such as Git, Jira, and Slack to manage projects and coordinate with other developers. I am always eager to learn new things and share my knowledge with others. 🚀
+👋 Hi, I'm Soumyadeep. I am a Tech Founder, Full-Stack Developer, and UI/UX Designer, as well as a passionate Community Builder & Content Creator driving innovation across Cloud and Web3. Whether I am guiding corporate strategy, writing code, or organizing a tech event, my goal is simple: I connect people, build scalable cloud setups, and create intuitive digital experiences.
 
-I'm currently working as a Full-Stack SDE, where I lead a small team of developers and collaborate with clients to deliver high-quality products that meet their needs and expectations. I enjoy working with various technologies and frameworks, such as React, Node.js, MongoDB, and AWS. I'm always eager to learn new skills and explore new challenges in the field of web development. I have a passion for creating user-friendly and responsive web applications that solve real-world problems and provide value to users.
 
-🤖 Besides developing web applications, I also participate in the Android Open Source Program (AOSP), where I collaborate with other developers to create and improve custom ROMs for various devices. I love crafting elegant and intuitive user interfaces, and I use tools like Adobe XD, Figma, and Sketch to design and prototype my ideas. I also follow the latest trends and best practices in UI/UX design to ensure that my applications meet the expectations and needs of the users. 🎨
 
-🙌 I'm always open to new opportunities and challenges that can help me grow as a professional and as a person. I'm also eager to connect with other developers and share my knowledge and experience. Feel free to reach out to me if you want to chat about web development, data science, or anything else. 😊
+At OmniAi Global Solutions Private Limited, my role is twofold. As the Founder, I conceive the vision for our digital service platforms and B2B IT solutions. As the Director, I govern the daily operations to turn that vision into reality.
 
-🔗 You can also check out my portfolio, blog, GitHub, Twitter, Medium, Dev.to, Mastodon, and LinkedIn to see some of my work and learn more about me. 🙏
+Alongside my business leadership, I bring over 4 years of experience in software development. I have led teams to build responsive, high-quality web applications using React, Node.js, MongoDB, Firebase, and AWS. I also have a keen interest in data science, machine learning, and Web3, constantly exploring new tools to solve real-world problems.
+
+
+
+🤖 Beyond web development, I used to contribute to the Android Open Source Program (AOSP), collaborating with other developers to build custom ROMs. I am also deeply passionate about crafting elegant user interfaces, using tools like Figma, Adobe XD, and Sketch to design user-centric experiences.
+
+
+
+🌍 Outside of coding and corporate governance, my focus is on bringing developers and tech enthusiasts together:
+
+🌟 Community Organizer: I lead the AWS User Group Kolkata, the local Slack Community, and OmniAi TechX. I also serve as an AWS Community Builder and the CMX Director for Kolkata to elevate how communities are run in our region.
+
+🌟 Content Creator: I share practical insights on tech, UI/UX design, and development. My work has built a network of 8,000+ followers and generated over 100,000 views.
+
+
+
+🤝Core Skills:
+
+-  Software Development: React, Node.js, MongoDB, GraphQL, Firebase, ML/Data Science
+
+-  Cloud & Tech: AWS Infrastructure, Cloud Computing, Web3
+
+-  Design & Open Source: UI/UX Prototyping (Figma, Adobe XD), AOSP Custom ROMs
+
+-  Business & Community: Corporate Governance, Agile Team Leadership, Event Organization
+
+
+
+🙌 I am always open to new opportunities and challenges. Feel free to reach out to me if you want to chat about web development, cloud technologies, community building, or the latest trends in UI/UX!
+
+
+
+🔗 Check out my portfolio, GitHub, Twitter, Dev.to, and blog to see my work.
 
 </details>
 
