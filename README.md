@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Soumyadeep Mandal (SaM)</h1>
-<h3>Full-Stack SDE | Designer & Developer | Community Leader | Content Creator & Writer | Freelancer | Public Speaker | Open-Source</h3>
+<h3>Founder & Director @ OmniAi Global Solutions | Community Leader & Organizer: AWS UG, Slack & OmniAi TechX (Kolkata) | AWS Community Builder | CMX Director Kolkata | AI, Cloud, Creator, Design & Web3</h3>
 
 ![Profile View](https://komarev.com/ghpvc/?username=imsampro&style=for-the-badge)
 [![GitHub Follower](https://img.shields.io/github/followers/imsampro?logo=github&label=follow%20%40imsampro&style=for-the-badge)](https://github.com/imsampro)
@@ -7,7 +7,7 @@
 [![LinkedIn Follower](https://img.shields.io/twitter/follow/imsampro?logo=linkedin&style=for-the-badge)](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imsampro)
 
 
-👋 Hi, I'm Soumyadeep. I'm a Full-Stack SDE and a tech enthusiast who loves to create awesome things with code & design. 💻
+👋 Hi, I'm Soumyadeep. I am a Tech Founder, Full-Stack Developer, and UI/UX Designer, as well as a passionate Community Builder & Content Creator driving innovation across Cloud and Web3.
 
 <details>
 <summary>
